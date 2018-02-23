@@ -8,8 +8,6 @@ in the order I suggested.
 
 ![The 'RichelDingen' CD front image](CD03_Coverart.png)
 
- * [Download the complete CD 'RichelDingen' (zip)](CD03_All.zip)
-
 [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
 
 #|Title|Ogg|MP3
