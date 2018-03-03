@@ -11,9 +11,9 @@ in the order I suggested.
 [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
 
 #|Title|Ogg|MP3
-01|Al Heb Je Blauw Haar|[here](CD03_01AlHebJeBlauwHaar.ogg)|[here](CD03_01AlHebJeBlauwHaar.mp3)
-02|Blauw|[here](CD03_02Blauw.ogg)|[here](CD03_02Blauw.mp3)
-03|Come Home Darling|[here](CD03_03ComeHomeDarling.ogg)|[here](CD03_03ComeHomeDarling.mp3)
+01|[Al Heb Je Blauw Haar](https://github.com/richelbilderbeek/music/blob/master/AlHebJeBlauwHaar.md)|[here](CD03_01AlHebJeBlauwHaar.ogg)|[here](CD03_01AlHebJeBlauwHaar.mp3)
+02|[Blauw](https://github.com/richelbilderbeek/music/blob/master/Blauw.md)|[here](CD03_02Blauw.ogg)|[here](CD03_02Blauw.mp3)
+03|[Come Home Darling](https://github.com/richelbilderbeek/music/blob/master/ComeHomeDarling.md)|[here](CD03_03ComeHomeDarling.ogg)|[here](CD03_03ComeHomeDarling.mp3)
 04|Concert Joost|[here](CD03_04ConcertJoost.ogg)|[here](CD03_04ConcertJoost.mp3)
 05|De L.l|[here](CD03_05DeLul.ogg)|[here](CD03_05DeLul.mp3)
 06|Het Koffielied|[here](CD03_06HetKoffielied.ogg)|[here](CD03_06HetKoffielied.mp3)
